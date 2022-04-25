@@ -7,10 +7,10 @@ Takım 156
 # Proje ile İlgili Bilgiler
 
 ### Takım Elemanları
-Cenk Yıldırım:
-İlknur Kalyoncu:
-Özcan Terzi:
-Hilal Kömerik:
++ Cenk Yıldırım:
++ İlknur Kalyoncu:
++ Özcan Terzi:
++ Hilal Kömerik:
 
 ### Proje İsmi
 ---Game---
