@@ -20,14 +20,14 @@ Bu oyun Bootcamp'ı kazanacak. Kazanacak ulan! (Bu satır değişmeye tabidir).
 
 ### Ürün Özellikleri
 
-⋅⋅* Bayağı iyi olması.
-⋅⋅* Yapılmış olması.
-⋅⋅* Şu anki gibi taslak halinde olmaması.
++ Bayağı iyi olması.
++ Yapılmış olması.
++ Şu anki gibi taslak halinde olmaması.
 
 ### Hedef Kitle
 
---* Bootcamp jürileri.
---* Kendimiz.
++ Bootcamp jürileri.
++ Kendimiz.
 
 ### Product Backlog URL
 Url.
