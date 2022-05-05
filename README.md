@@ -1,5 +1,5 @@
 # Wornworm 
-The adventure of an unfortunate, yet blessed worm... Help our character, the young and rebellious Wormson find a purpose in this short 2D Hack and Slash Adventure.
+Genç, asi, ilk bakışta bahtsız ve bir o kadar da şanslı bir solucanın hayat değiştiren macerası.
 ## Team Bootstrap
 
 Takım 156
@@ -16,20 +16,20 @@ Takım 156
 Wornworm
 
 ### Proje Açıklaması
-Wornworm (Name subject to change) is a 2D Hack and Slash Adventure, following the adventure of a worm that storms off out of his home after an argument with his worm-family, but is plucked and flown into the sky by an owl because of his recklessness...
+Wornworm (isim değişmeye tabidir) hayatta yerini bulamayan genç ve asi bir solucanın bahtsızlık silsilesiyle başlayan ve onu hiç tahmin etmediği sebep ve sonuçlara götüren macerasını konu alan bir 2D Hack and Slash oyunudur.
 
 ### Ürün Özellikleri
 
 + 2D Hack and Slash
-+ A game world that blends fantasy and real life into a brilliant fable
-+ A gripping adventure with well-developed progression
++ Fantezi dünyasını ve gerçek dünyayı görkemli bir şekilde lezzetli bir fabl içinde harmanlayan bir oyun.
++ Karmaşık olmadan içine çekmeyi amaçlayan net ve güçlü bir hikaye.
 
 ### Hedef Kitle
 
-+ Indie game enjoyers
-+ People interested in the animal world
-+ People that like a simple yet strong story
-+ Hack and Slash enjoyers
++ Indie oyun hayranları
++ Hayvan dünyasına ve hayvanlara ilgi duyan kişiler
++ Basit ve net bir hikayeden hoşlanan kişiler
++ Hack and Slash hayranları
 
 ### Product Backlog URL
 [Jira Backlog Board](https://www.google.com)
