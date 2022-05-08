@@ -49,11 +49,12 @@ Sprint 1
 ![Jira](https://user-images.githubusercontent.com/103588551/167015148-f068241e-94de-4949-b43d-367c1c41f38c.png)
 
 + **Ürün Art Örnekleri (Storyboard Dosyası için özelden ulaşınız lütfen.)**:
-![Art1](https://user-images.githubusercontent.com/103588551/167015888-7713f0d5-fe02-4c17-a66f-ad48654a0a8b.png)
-
 ![TASARIM1SAHNE1J](https://user-images.githubusercontent.com/103588551/167015964-35f1f2ba-0505-47f6-b2da-794349df1a0a.jpg)
 
 ![TASARIM SAHNE2](https://user-images.githubusercontent.com/103588551/167015995-5a92c4b0-b73d-421f-a312-416649ea705a.png)
+
+![run worm](https://user-images.githubusercontent.com/103588551/167308935-9abf5243-3dd1-4fd4-bedd-816a8b1ee0eb.png)
+
 
 + **Sprint Review:** Storyboard konusuna karar verilip oyunun iskeleti netleştikten sonra, eforların yoğunlaştırılıp, takım arkadaşımız iyileştikten sonra da dahil olmak üzere, özellikleri mevcut plan üzerinden yürütmekte hemfikir olunmuştur. Takım arkadaşımız iyileşene kadar (Geçmiş olsun Özcan!) daha da geriye düşmemek adına mevcut görevlerin diğer 2 üye arasında bölüştürülmesine karar verilmiştir.
 
