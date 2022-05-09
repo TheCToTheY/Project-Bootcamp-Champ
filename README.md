@@ -41,7 +41,7 @@ Sprint 1
 
 + **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 30
 
-+ **Puan Tamamlama Mantığı:** Bu hafta işimiz gecikmelere ve aksaklıklara uğrasa da önemli bir kısmı çok güçlü bir şekilde oturtabildik. Olay örgümüzün tamamı hazır halde, ve önümüzde sadece tasarım ve kodlama kaldı diye bakıyoruz. Karakter tasarımlarının bir bölümü ve yapabildiğimiz kadar kodlamayı bu hafta yapacağımızdan, 50 puanlık bir kısımı doldurabildik. Diğer sprintlerde bunu daha yukarı çekip şu anda belirlediğimiz 300 puanlık toplama tamamlayacağız, ve tüm takım buna hazır.
++ **Puan Tamamlama Mantığı:** Bu hafta işimiz gecikmelere ve aksaklıklara uğrasa da önemli bir kısmı çok güçlü bir şekilde oturtabildik. Olay örgümüzün tamamı hazır halde, ve önümüzde sadece tasarım ve kodlama kaldı diye bakıyoruz. Karakter tasarımlarının bir bölümü ve yapabildiğimiz kadar kodlamayı bu hafta yapacağımızdan, bu haftalık 100 puanlık iş yükü üzerinden (Jira üzerinde bu sprint görevlerinin puan toplamından bu görülebilir) 30 puanlık bir kısımı doldurabildik. Diğer sprintlerde bunu daha yukarı çekip şu anda belirlediğimiz 300 puanlık toplama tamamlayacağız, ve tüm takım buna hazır.
 
 + **Backlog Düzeni:** Backlog'da bu sprintte halletmek istediğimiz fakat yukarıdaki sebeplerden dolayı geciken görevler önem sırası ve yapılma sırasına göre sıralanmıştır. In progress olan görevler ise bu hafta halledilecek olanları yapılabilme önemi ve olanağı sırasına göre düzenlenmiştir.
 
