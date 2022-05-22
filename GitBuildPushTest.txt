@@ -1,0 +1,1 @@
+Bu dosya, GitHub'a sonradan oyun build versiyonu pushlama testi için oluşturulmuştur.
