@@ -78,7 +78,9 @@ Sprint 2
 + **Sprint Board Update:** Sprint Board güncel screenshotu: 
 ![KanbanGüncel](https://user-images.githubusercontent.com/103588551/169881843-666cf9ec-bc95-4b6f-aa55-6f651e70072d.png)
 
-+ **Ürün Art Örnekleri (Storyboard Dosyası için özelden ulaşınız lütfen.)**:
+
+ **Ürün Art Örnekleri (Storyboard Dosyası için özelden ulaşınız lütfen.)**:
+![ARKAPLAN](https://user-images.githubusercontent.com/103588551/169892731-ad11430d-ea6a-4792-a8eb-62cb281e8503.png)
 ![taş çiçek falan cart curt](https://user-images.githubusercontent.com/103588551/169881924-915818c3-8e74-488e-95f7-607d1db06fd1.png)
 ![ağaçlar](https://user-images.githubusercontent.com/103588551/169881939-0944d507-9a7a-4132-b51a-cb2464f879be.png)
 ![kılıç 2](https://user-images.githubusercontent.com/103588551/169881967-961da298-52c6-4a1c-9bed-7572cdcd41c4.png)
