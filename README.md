@@ -67,11 +67,13 @@ Sprint 2
 
 + **Sprint Notları:** Sprint boyunca yapılan toplantılar ile geliştirme mantığımızı değiştirdik, her sisteme aktarılabilen ve ileriki adımlarda da işimizi çok kolaştıracak templateler şeklinde çalıştık, AI örnekleri gibi, küçük ayarlamalar ile her gerekli karaktere uygulanabilecek bir AI template ve bunun gibi şeyler tasarladık. Böylece 3. Sprintte işimiz çok olsa da adımlar halihazır kendi templatelerimiz ile hızlıca bitirilebilecek.
 
-+ **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 90 (PAZAR 23.59'A KADAR DEĞİŞİME TABİDİR)
++ **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 100 
 
-+ **Puan Tamamlama Mantığı:** Bu hafta işe koyulabilsekte geçen haftadan dolayı biriken işlerimizin normalin altındaki takım üyesi sayımızla çok zor olacağı görüşüne vardık ve bunu halletmek için Sprint Notları'nda bahsettiğim templateler yöntemine başvurduk. Yine de ortalama bir Sprint hedefi olan 100'e ulaştık, fakat bize daha fazlası gerekiyordu. Bunu halledebilmek adına bir sonraki sprintte işlerimizi hızlandıracak templateleri yaptık. 3. Sprintte ise projemizi sona ulaştıracağız.
++ **Puan Tamamlama Mantığı:** NOT: Kanban tahtasında "Done" kısmının en altındaki 3 görev Sprint 1'de tamamlanmıştır, bu yüzden en alta taşınmıştır ve bu haftanın tamamlanması tahmin edilen puan toplamı içinde -sayılmamaktadır-. 
 
-+ **Backlog Düzeni:** Backlogdaki tek görev şu anda diğer görevler üzerinde çalıştığımızdan önceliği düşük olan bir görev. Zaten template'i hazırladığımız için üstesinden gelmesi kolay olacak. In progress kısmındaki görevlerden 3-4 tanesi ise bugün bile bitebilir, bitirmeye o kadar yakınız. O yüzden tamamlanması tahmin edilen puan değişiklik gösterebilir.
+  Bu hafta işe koyulabilsekte geçen haftadan dolayı biriken işlerimizin normalin altındaki takım üyesi sayımızla çok zor olacağı görüşüne vardık ve bunu halletmek için Sprint Notları'nda bahsettiğim templateler yöntemine başvurduk. Yine de ortalama bir Sprint hedefi olan 100'e ulaştık, fakat bize daha fazlası gerekiyordu. Bunu halledebilmek adına bir sonraki sprintte işlerimizi hızlandıracak templateleri yaptık. 3. Sprintte ise projemizi sona ulaştıracağız.
+
++ **Backlog Düzeni:** Backlogdaki tek görev şu anda diğer görevler üzerinde çalıştığımızdan önceliği düşük olan bir görev. Zaten template'i hazırladığımız için üstesinden gelmesi kolay olacak. 
 
 + **Sprint Board Update:** Sprint Board güncel screenshotu: 
 ![KanbanGüncel1](https://user-images.githubusercontent.com/103588551/169687571-297ef10b-d6b5-4876-b773-6c122f88b172.png)
