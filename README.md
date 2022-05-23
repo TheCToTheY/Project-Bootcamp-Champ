@@ -61,3 +61,35 @@ Sprint 1
 + **Sprint Retrospective:** Aksaklıkların etkisini aza indirmek için yoğunluk arttırılmalı, gerekirse halihazırda bekleyen görevler başkalarına dağıtılıp üstesinden gelinmelidir, veya yol katedilmelidir.
 
 + **Diğer Notlar:** (Geçmiş olsun Özcan! En kısa zamanda iyileşmen dileğiyle :) ).
+
+Sprint 2
+======
+
++ **Sprint Notları:** Sprint boyunca yapılan toplantılar ile geliştirme mantığımızı değiştirdik, her sisteme aktarılabilen ve ileriki adımlarda da işimizi çok kolaştıracak templateler şeklinde çalıştık, AI örnekleri gibi, küçük ayarlamalar ile her gerekli karaktere uygulanabilecek bir AI template ve bunun gibi şeyler tasarladık. Böylece 3. Sprintte işimiz çok olsa da adımlar halihazır kendi templatelerimiz ile hızlıca bitirilebilecek.
+
++ **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 100 
+
++ **Puan Tamamlama Mantığı:** NOT: Kanban tahtasında "Done" kısmının en altındaki 3 görev Sprint 1'de tamamlanmıştır, bu yüzden en alta taşınmıştır ve bu haftanın tamamlanması tahmin edilen puan toplamı içinde -sayılmamaktadır-. 
+
+  Bu hafta işe koyulabilsekte geçen haftadan dolayı biriken işlerimizin normalin altındaki takım üyesi sayımızla çok zor olacağı görüşüne vardık ve bunu halletmek için Sprint Notları'nda bahsettiğim templateler yöntemine başvurduk. Yine de ortalama bir Sprint hedefi olan 100'e ulaştık, fakat bize daha fazlası gerekiyordu. Bunu halledebilmek adına bir sonraki sprintte işlerimizi hızlandıracak templateleri yaptık. 3. Sprintte ise projemizi sona ulaştıracağız.
+
++ **Backlog Düzeni:** Backlogdaki tek görev şu anda diğer görevler üzerinde çalıştığımızdan önceliği düşük olan bir görev. Zaten template'i hazırladığımız için üstesinden gelmesi kolay olacak. 
+
++ **Sprint Board Update:** Sprint Board güncel screenshotu: 
+![KanbanGüncel](https://user-images.githubusercontent.com/103588551/169881843-666cf9ec-bc95-4b6f-aa55-6f651e70072d.png)
+
+
+ **Ürün Art Örnekleri (Storyboard Dosyası için özelden ulaşınız lütfen.)**:
+![ARKAPLAN](https://user-images.githubusercontent.com/103588551/169892731-ad11430d-ea6a-4792-a8eb-62cb281e8503.png)
+![taş çiçek falan cart curt](https://user-images.githubusercontent.com/103588551/169881924-915818c3-8e74-488e-95f7-607d1db06fd1.png)
+![ağaçlar](https://user-images.githubusercontent.com/103588551/169881939-0944d507-9a7a-4132-b51a-cb2464f879be.png)
+![kılıç 2](https://user-images.githubusercontent.com/103588551/169881967-961da298-52c6-4a1c-9bed-7572cdcd41c4.png)
+![Melee sağdan sola](https://user-images.githubusercontent.com/103588551/169881979-c5ff8020-5b34-4c61-bdb8-7aac8a1d9660.png)
+![ızgaralar lazım olur](https://user-images.githubusercontent.com/103588551/169881999-0b5ff0ba-71cc-4348-8d01-2e1cc12126a1.png)
+
+
++ **Sprint Review:** Çalışma hızımız doğal olarak epey arttı ve ortalama bir Sprint haftası iş yükü kadar iş yapabildik, fakat önceki haftaki aksaklıklardan dolayı bu şu an için yeterli değil. Bu süreci hızlandırıp bitirebilmek için kodlamaları dikkatli bir şekilde kolayca ayarlanabilir templateler haline getirdik ve Sprint 3'te işlerimizi bu sayede hızlıca halledebileceğimizi ümit ediyoruz.
+
++ **Sprint Retrospective:** Ortalama hız yakalandı, fakat aksaklıklardan dolayı yeterli olmayacaktı. Bu yüzden 3. Sprinte bu sorunu çözecek bir teknik ile adım atmalıyız.
+
++ **Diğer Notlar:** Sprint Puanları bu akşam 23:59da son halini alacaktır, halihazırda değişiklik gösterebilir.
