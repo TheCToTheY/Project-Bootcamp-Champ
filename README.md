@@ -87,7 +87,7 @@ Sprint 2
 ![Melee sağdan sola](https://user-images.githubusercontent.com/103588551/169881979-c5ff8020-5b34-4c61-bdb8-7aac8a1d9660.png)
 ![ızgaralar lazım olur](https://user-images.githubusercontent.com/103588551/169881999-0b5ff0ba-71cc-4348-8d01-2e1cc12126a1.png)
 
-+ **Daily Scrum Toplantı Örnekleri:** ![Document](https://docs.google.com/document/d/1TAnmUpyUHaRzholBz8QJuHrkOEdHzo8iX1ffoBNXWSc/edit?usp=sharing)
++ **Daily Scrum Toplantı Örnekleri:** [Document](https://docs.google.com/document/d/1TAnmUpyUHaRzholBz8QJuHrkOEdHzo8iX1ffoBNXWSc/edit?usp=sharing)
 + 
 + **Sprint Review:** Çalışma hızımız doğal olarak epey arttı ve ortalama bir Sprint haftası iş yükü kadar iş yapabildik, fakat önceki haftaki aksaklıklardan dolayı bu şu an için yeterli değil. Bu süreci hızlandırıp bitirebilmek için kodlamaları dikkatli bir şekilde kolayca ayarlanabilir templateler haline getirdik ve Sprint 3'te işlerimizi bu sayede hızlıca halledebileceğimizi ümit ediyoruz.
 
