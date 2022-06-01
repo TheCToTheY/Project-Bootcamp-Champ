@@ -7,10 +7,9 @@ Takım 156
 # Proje ile İlgili Bilgiler
 
 ### Takım Elemanları
-+ Cenk Yıldırım: Product Owner / Storyboard 
++ Cenk Yıldırım: Product Owner / Storyboard / Developer
 + İlknur Kalyoncu: Scrum Master / Graphic Designer
 + Özcan Terzi: Developer / Programming
-+ Hilal Kömerik: Developer
 
 ### Proje İsmi
 Wornworm
