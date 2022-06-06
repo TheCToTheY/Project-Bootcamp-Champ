@@ -6,6 +6,10 @@ Takım 156
 
 # Proje ile İlgili Bilgiler
 
+
+### Yönergeler
+LShift tuşu ile DASH atılır, double jump yapabilirsiniz. Heykelin yanında F tuşuna basarsanız bir diyalog olacaktır. Oyunun sonuna kadar gelip son kapıya değdiğinizde oyun biter. Hedefimiz bu kapıya ulaşmaktır.
+
 ### Takım Elemanları
 + Cenk Yıldırım: Product Owner / Storyboard / Developer
 + İlknur Kalyoncu: Scrum Master / Graphic Designer
@@ -17,8 +21,6 @@ Wornworm
 ### Proje Açıklaması
 Wornworm (isim değişmeye tabidir) hayatta yerini bulamayan genç ve asi bir solucanın bahtsızlık silsilesiyle başlayan ve onu hiç tahmin etmediği sebep ve sonuçlara götüren macerasını konu alan bir 2D Hack and Slash oyunudur.
 
-### Yönergeler
-LShift tuşu ile DASH atılır, double jump yapabilirsiniz. Heykelin yanında F tuşuna basarsanız bir diyalog olacaktır.
 
 ### Ürün Özellikleri
 
