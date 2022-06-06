@@ -17,6 +17,9 @@ Wornworm
 ### Proje Açıklaması
 Wornworm (isim değişmeye tabidir) hayatta yerini bulamayan genç ve asi bir solucanın bahtsızlık silsilesiyle başlayan ve onu hiç tahmin etmediği sebep ve sonuçlara götüren macerasını konu alan bir 2D Hack and Slash oyunudur.
 
+### Yönergeler
+LShift tuşu ile DASH atılır, double jump yapabilirsiniz. Heykelin yanında F tuşuna basarsanız bir diyalog olacaktır.
+
 ### Ürün Özellikleri
 
 + 2D Hack and Slash
@@ -93,3 +96,23 @@ Sprint 2
 + **Sprint Retrospective:** Ortalama hız yakalandı, fakat aksaklıklardan dolayı yeterli olmayacaktı. Bu yüzden 3. Sprinte bu sorunu çözecek bir teknik ile adım atmalıyız.
 
 + **Diğer Notlar:** Sprint Puanları bu akşam 23:59da son halini alacaktır, halihazırda değişiklik gösterebilir.
+
+
+Sprint 3
+======
+
++ **Sprint Notları:** Takımdan 5 hafta boyunca iş yapmayan bir üyeyi uğurladıktan sonra maalesef istediğimiz hedeflerin hiçbirine yetişemedik, çok fazla son dakika hatası ve errorle karşılaşınca maalesef bir çok, hatta çoğu özellik, tasarlanan bir boss, ikinci bölüm, ikinci bölüm canavarları ve mekanikleri projeden eksik bir şekilde yetişmek ve mezun olabilmek uğruna uploadlamak zorunda kaldık. Takım 156 olarak özür dileriz...
+
++ **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 30
+
++ **Puan Tamamlama Mantığı:** 10 puan değerinde 3 görev daha yapılmıştır.
+
++ **Backlog Düzeni:** Backlogdaki görevler bir şekilde yapılamayan görevlerdir. 
++ 
++ **Sprint Board Update:** Lütfen linke bakınız.
+
++ **Sprint Review:** İnişli çıkışlı sprintlerden kesinlikle en kötüsünü yaşadık. Son dakika panikleri, herkesin özel hayatında en güdümlü darbeleri yemesi vb. şeyler derken projemizi hayal kırıklığına uğrattık.
+
++ **Sprint Retrospective:** Daha iyi çalışma prensipleri belirlenmeli, iş yapmayanlara daha az tolerans gösterilmeli. 
+
++ **Diğer Notlar:** Lütfen tüm oyunu şemaladığımız oyun storyboard dosyasına bakın.. Bir gün tam sürüm WornWorm'de görüşmek dileğiyle.
