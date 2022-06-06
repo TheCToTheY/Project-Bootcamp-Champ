@@ -103,7 +103,7 @@ Sprint 2
 Sprint 3
 ======
 
-+ **Sprint Notları:** Takımdan 5 hafta boyunca iş yapmayan bir üyeyi uğurladıktan sonra maalesef istediğimiz hedeflerin hiçbirine yetişemedik, çok fazla son dakika hatası ve errorle karşılaşınca maalesef bir çok, hatta çoğu özellik, tasarlanan bir boss, ikinci bölüm, ikinci bölüm canavarları ve mekanikleri projeden eksik bir şekilde yetişmek ve mezun olabilmek uğruna uploadlamak zorunda kaldık. Takım 156 olarak özür dileriz...
++ **Sprint Notları:** Takımdan 5 hafta boyunca iş yapmayan bir üyeyi uğurladıktan sonra maalesef istediğimiz hedeflerin hiçbirine yetişemedik, çok fazla son dakika hatası ve errorle karşılaşınca maalesef bir çok, hatta çoğu özellik, tasarlanan bir boss, ikinci bölüm, ikinci bölüm canavarları ve mekanikleri projeden eksik bir şekilde yetişmek ve mezun olabilmek uğruna baştan sona yürüyüp yeşil kapıya dokunacak ve bu olduktan sonra oyun sonu ekranı girecek şekilde uploadlamak zorunda kaldık. Takım 156 olarak özür dileriz...
 
 + **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 30
 
