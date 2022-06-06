@@ -109,7 +109,7 @@ Sprint 3
 
 + **Backlog Düzeni:** Backlogdaki görevler bir şekilde yapılamayan görevlerdir. 
 + 
-+ **Sprint Board Update:** Lütfen linke bakınız.
++ **Sprint Board Update:** Lütfen jiro linkine bakınız.
 
 + **Sprint Review:** İnişli çıkışlı sprintlerden kesinlikle en kötüsünü yaşadık. Son dakika panikleri, herkesin özel hayatında en güdümlü darbeleri yemesi vb. şeyler derken projemizi hayal kırıklığına uğrattık.
 
