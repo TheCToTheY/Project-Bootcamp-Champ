@@ -108,7 +108,7 @@ Sprint 3
 + **Puan Tamamlama Mantığı:** 10 puan değerinde 3 görev daha yapılmıştır.
 
 + **Backlog Düzeni:** Backlogdaki görevler bir şekilde yapılamayan görevlerdir. 
-+ 
+
 + **Sprint Board Update:** Lütfen jiro linkine bakınız.
 
 + **Sprint Review:** İnişli çıkışlı sprintlerden kesinlikle en kötüsünü yaşadık. Son dakika panikleri, herkesin özel hayatında en güdümlü darbeleri yemesi vb. şeyler derken projemizi hayal kırıklığına uğrattık.
