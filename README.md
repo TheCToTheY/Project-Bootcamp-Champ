@@ -118,3 +118,5 @@ Sprint 3
 + **Sprint Retrospective:** Daha iyi çalışma prensipleri belirlenmeli, iş yapmayanlara daha az tolerans gösterilmeli. 
 
 + **Diğer Notlar:** Lütfen tüm oyunu şemaladığımız oyun storyboard dosyasına bakın.. Bir gün tam sürüm WornWorm'de görüşmek dileğiyle.
+
+Note: Thanks to Brackeys, Trever Mack, Root Games and Blackthornprod for their free tutorials.
